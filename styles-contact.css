@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+body{
+    background: white;
+    color: black;
+}
+nav{
+    background: black;
+    color: #ccc;
+    text-align: center;
+    padding: 20px;
+}
+nav a{
+    color: #ccc;
+    text-decoration: none;
+}
+#contact{
+    text-align: center;
+    margin-top: 10vh;
+    border: 2px solid black;
+    padding: 30px;
+    background: #ccc;
+    margin-left: 20vw;
+    margin-right: 20vw;
+
+}
+#contact h1{
+    padding-bottom: 20px;
+}
+#contact p{
+    padding: 20px;
+}
+#contact h3{
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+a{
+    color: black;
+    padding: 10px;
+}
+button{
+    margin-top: 30px;
+    margin-left: 40vw;
+    background: #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}

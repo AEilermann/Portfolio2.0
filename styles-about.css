@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    font-family: arial;
+}
+nav{
+    text-align: center;
+    background: black;
+    padding: 10px;
+    color: #ccc;
+}
+nav a{
+    color: #ccc;
+    text-decoration: none;
+}
+#goals-obstacles{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+    background-color: #ecece9;
+}
+#goals{
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+#goals p{
+    padding-top: 10px;
+    font-size: 12px;
+}
+#obstacles{
+    margin-right: 10vw;
+}
+#obstacles p{
+    padding-top: 10px;
+    font-size: 12px;
+}
+#img{
+    padding-left: 30vw;
+    padding-top: 5px;
+    background-color: black
+}
+#mystory{
+    padding-left: 20vw;
+    padding-right: 20vw;
+    padding-bottom: 50px;
+    background-color: #ecece9;
+}
+#mystory p{
+    padding-top: 10px;
+}
+#mystory h1{
+    text-align: center;
+}
+
+#social-icons p{
+    margin-bottom: 10px;
+}
+#social-icons a{
+color: black;
+padding-right: 20px;
+}
+#contact-info p{
+    margin-bottom: 10px;
+    text-align: right;
+}
+#footer{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#center{
+    text-align: center;
+    padding: 10px;
+    padding-top: 50px
+}
+#end{
+    background: white;
+    padding-top: 20px;
+}

@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    font-family: arial;
+}
+body{
+    background-color: white;
+
+}
+#top{
+    background-color: black;
+    padding: 10vh;
+    border-radius: 0 0 700px 700px;
+    color: #ccc;
+}
+#top h1{
+    text-align: center;
+}
+#top p{
+    text-align: center;
+    padding-top: 10px;
+    color: #ccc;
+}
+#top a{
+    color: black;
+}
+#top a:hover{
+    color: #817c7c;
+}
+#title{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+#work{
+    background: #ccc;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+#work p{
+    text-align: center;
+}
+#work2{
+    display: flex;
+    background: #ccc;
+    justify-content: center;
+}
+#work2 p{
+    text-align: center
+}
+#img1, #img2, #img3, #img4{
+    width: 30vw;
+    padding: 20px;
+}
+#certifications{
+    padding: 100px;
+}
+#certifications h1{
+text-align: center
+}
+#certifications p{
+font-size: 15px;
+padding-top: 5px;
+}
+#certifications a{
+    color: black;
+    font-weight: bold;
+}
+#certifications a:hover{
+    color: #949393;
+}
+#xbit{
+    padding-top: 20px;
+}
+#freecodecamp{
+    padding-top: 50px;
+}
+
+#social-icons p{
+    margin-bottom: 10px;
+}
+#social-icons a{
+color: black;
+padding-right: 20px;
+}
+#contact-info p{
+    margin-bottom: 10px;
+    text-align: right;
+}
+#footer{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer{
+    background: #ccc;
+}
+#center{
+    text-align: center;
+    padding: 10px;
+    padding-top: 50px
+}
+#end{
+    background: #ccc;
+    padding-top: 20px;
+}
+#websites{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+#websites a{
+    color: black;
+}
+#websites a:hover{
+    color: #949393;
+}
+#websites p{
+    padding: 10px;
+}
+#websites h1{
+    text-align: center;
+}
